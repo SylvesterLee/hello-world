@@ -1,4 +1,3 @@
 # hello-world
-tutorial
-sdfojsdoadfi
-asdasfdsfasf
+let a = 5
+printfn "%A" a
